@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>418366384811-1punodkjrrq16dul003vqpu3rkn0ed84.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.418366384811-1punodkjrrq16dul003vqpu3rkn0ed84</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>418366384811-vfihofefkoj1argil6uoq3vdl2cif66k.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDE-QOCNBasTSag6RCWwF4wZZFAXzK8UMw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>418366384811</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bookme</string>
+	<key>PROJECT_ID</key>
+	<string>bookme-2d9f5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bookme-2d9f5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:418366384811:ios:4185016222740a74d425ee</string>
+</dict>
+</plist>

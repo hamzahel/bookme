@@ -1,0 +1,16 @@
+{
+  "base_url": "https://bookme.qa/api/",
+  "base_url2": "http://bookme.hassantraders.org/api/",
+  "app_name": "Bookme",
+  "default_theme": "light",
+  "primary_color": "#F15E22",
+  "primary_dark_color": "#e88345",
+  "accent_color": "#01579B",
+  "scaffold_background_color": "#F6F8FA",
+  "appbar_color": "#FF914C",
+  "text_color" : "#000000",
+  "font_family" : "DubaiRegular",
+  "google_maps_key": "",
+  "mobile_language": "en_US",
+  "app_version": "1.0.0"
+}
